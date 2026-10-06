@@ -1,0 +1,44 @@
+{
+  "revision": 164,
+  "translation_date": "2026-10-05",
+  "snapshot_prepared": "2026-10-06",
+  "catalogs": [
+    {
+      "file": "AnimalsRelease.po",
+      "entries": 1047,
+      "sha256": "fb8e6f682239e61d012e097464242b8f35888b60decfb1f79696c6a00ca7b525"
+    },
+    {
+      "file": "LocalizationUiGeneral.po",
+      "entries": 1359,
+      "sha256": "e68825388c170e2656604dbfdc200bd2f8f1b8b1f58cca77666333030fd19b69"
+    },
+    {
+      "file": "MetagameRelease.po",
+      "entries": 1942,
+      "sha256": "154b55bc2cd53d9c64675d70f3da14adb64653b1437a674534e84c1256e47b61"
+    },
+    {
+      "file": "MissionsRelease.po",
+      "entries": 2090,
+      "sha256": "a2566749d508b409090ef7ef3e74c5ac660a2f3eb9bf55da71a1749de44550d0"
+    },
+    {
+      "file": "ProductsRelease.po",
+      "entries": 607,
+      "sha256": "1837a1e8987af8841c7e3548fd530b79b09fe318f5659dd6be3a208ebe1b7504"
+    },
+    {
+      "file": "UIRelease.po",
+      "entries": 1897,
+      "sha256": "5f4d4688f8e668ed94d29ea75b0d42eebcd0cd6e8a5ae932b8a67e35cab1ee28"
+    }
+  ],
+  "extra_entries": {
+    "runtime_string_overrides.json": 9,
+    "supplemental_strings.json": 9
+  },
+  "coverage_report_active_entries": 7583,
+  "coverage_report_filled_active_entries": 7583,
+  "note": "Raw PO catalog counts are not the active build coverage count; see POKRYTI_PREKLADU.txt."
+}
