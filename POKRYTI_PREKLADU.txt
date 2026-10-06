@@ -1,0 +1,204 @@
+﻿LIŠČÍ ČEŠTINA — STAV PŘEKLADU
+Revize 164 · 5. 10. 2026
+
+Měřím 7 583 textů v pěti lokalizačních souborech, které český balíček
+skutečně nahrazuje ve hře. Zdrojových 8 942 řádků zahrnuje ještě
+1 359 řádků pomocného souboru LocalizationUiGeneral.po; z nich se
+1 166 opakuje v UIRelease.po a dalších 193 není v tomto balíčku
+použito. Proto je do procent nezapočítávám.
+
+Vyplněné české položky: 7 583 / 7 583 = 100.00 %
+Prázdné položky: 0 / 7 583 = 0.00 %
+Texty odlišné od angličtiny: 6 938 / 7 583 = 91.49 %
+Texty doslova shodné s angličtinou: 645 / 7 583 = 8.51 %
+
+Poslední řádek není procento chybějícího překladu: obsahuje úmyslně
+zachovaná jména lidí, výrobků a míst, latinské názvy, jednotky,
+technické zkratky i česká slova shodná s anglickými. Ukazuje jen
+rozsah doslova nezměněných řetězců, nikoli počet překladových chyb.
+Kvalitu všech vět zatím nelze poctivě vyjádřit jedním procentem.
+
+Evidence úplného jazykového porovnání od revize 121:
+Zaznamenané porovnání s EN/PL/DE: 7511 / 7583 = 99.05 %
+Tato nová evidence počítá konkrétní aktuální texty, včetně těch,
+které po porovnání nevyžadovaly opravu. Starší revize nejsou
+automaticky zahrnuté; nízké procento neznamená, že se dříve
+nerevidovaly. Nejde o záruku bezchybnosti ani test všech scén ve hře.
+
+Evidence ruční revize aktuálních textů:
+Ruční kontrola EN/CS s dostupnými PL/DE: 7583 / 7583 = 100.00 %
+Zbývá ručně zkontrolovat: 0 / 7583 = 0.00 %
+Z toho 72 položek má výslovně zaznamenanou výjimku: PL/DE chybí,
+mají starý odlišný význam, nebo je nutné vyřešit odkaz na jiný text.
+Tyto položky nezvyšují procento úplného porovnání EN/PL/DE výše.
+100 % ruční revize označuje rozsah kontroly, nikoli záruku bezchybnosti.
+
+Vývoj po revizích:
+Revize 18: 699 textů shodných s angličtinou (9.24 %), prázdných 0, upravených v revizi 39.
+Revize 19: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 163.
+Revize 20: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 131.
+Revize 21: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 94.
+Revize 22: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 54.
+Revize 23: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 77.
+Revize 24: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 45.
+Revize 25: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 49.
+Revize 26: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 33.
+Revize 27: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 42.
+Revize 28: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 35.
+Revize 29: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 98.
+Revize 30: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 87.
+Revize 31: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 71.
+Revize 32: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 49.
+Revize 33: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 42.
+Revize 34: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 51.
+Revize 35: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 48.
+Revize 36: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 22.
+Revize 37: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 37.
+Revize 38: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 5.
+Revize 39: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 5.
+Revize 40: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 4.
+Revize 41: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 9.
+Revize 42: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 9.
+Revize 43: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 31.
+Revize 44: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 28.
+Revize 45: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 10.
+Revize 46: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 19.
+Revize 47: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 16.
+Revize 48: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 7.
+Revize 49: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 20.
+Revize 50: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 15.
+Revize 51: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 18.
+Revize 52: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 19.
+Revize 53: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 47.
+Revize 54: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 13.
+Revize 55: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 2.
+Revize 56: 651 textů shodných s angličtinou (8.61 %), prázdných 0, upravených v revizi 1.
+Revize 57: 651 textů shodných s angličtinou (8.61 %), prázdných 0, upravených v revizi 15.
+Revize 58: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 10.
+Revize 59: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 22.
+Revize 60: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 33.
+Revize 61: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 38.
+Revize 62: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 15.
+Revize 63: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 17.
+Revize 64: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 47.
+Revize 65: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 21.
+Revize 66: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 41.
+Revize 67: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 29.
+Revize 68: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 31.
+Revize 69: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 14.
+Revize 70: 650 textů shodných s angličtinou (8.59 %), prázdných 0, upravených v revizi 26.
+Revize 71: 649 textů shodných s angličtinou (8.58 %), prázdných 0, upravených v revizi 11.
+Revize 72: 649 textů shodných s angličtinou (8.58 %), prázdných 0, upravených v revizi 24.
+Revize 73: 649 textů shodných s angličtinou (8.58 %), prázdných 0, upravených v revizi 15.
+Revize 74: 649 textů shodných s angličtinou (8.58 %), prázdných 0, upravených v revizi 7.
+Revize 75: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 30.
+Revize 76: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 28.
+Revize 77: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 14.
+Revize 78: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 18.
+Revize 79: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 27.
+Revize 80: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 54.
+Revize 81: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 21.
+Revize 82: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 15.
+Revize 83: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 11.
+Revize 84: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 7.
+Revize 85: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 50.
+Revize 86: 636 textů shodných s angličtinou (8.41 %), prázdných 0, upravených v revizi 37.
+Revize 87: 635 textů shodných s angličtinou (8.40 %), prázdných 0, upravených v revizi 38.
+Revize 88: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 23.
+Revize 89: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 15.
+Revize 90: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 36.
+Revize 91: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 12.
+Revize 92: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 24.
+Revize 93: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 18.
+Revize 94: 648 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 20.
+Revize 95: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 65.
+Revize 96: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 26.
+Revize 97: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 47.
+Revize 98: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 25.
+Revize 99: 654 textů shodných s angličtinou (8.65 %), prázdných 0, upravených v revizi 19.
+Revize 100: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 19.
+Revize 101: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 12.
+Revize 102: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 15.
+Revize 103: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 23.
+Revize 104: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 16.
+Revize 105: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 57.
+Revize 106: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 28.
+Revize 107: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 15.
+Revize 108: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 13.
+Revize 109: 652 textů shodných s angličtinou (8.62 %), prázdných 0, upravených v revizi 101.
+Revize 110: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 70.
+Revize 111: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 21.
+Revize 112: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 1.
+Revize 113: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 1.
+Revize 114: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 18.
+Revize 115: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 24.
+Revize 116: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 74.
+Revize 117: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 6.
+Revize 118: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 52.
+Revize 119: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 16.
+Revize 120: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 13.
+Revize 121: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 22.
+Revize 122: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 9.
+Revize 123: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 15.
+Revize 124: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 27.
+Revize 125: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 44.
+Revize 126: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 26.
+Revize 127: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 28.
+Revize 128: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 35.
+Revize 129: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 36.
+Revize 130: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 3.
+Revize 131: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 1.
+Revize 132: 653 textů shodných s angličtinou (8.63 %), prázdných 0, upravených v revizi 0. Doplněných mimo export PO: 1.
+Revize 133: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 11. Doplněných mimo export PO: 8.
+Revize 134: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 10.
+Revize 135: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 29.
+Revize 136: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 9.
+Revize 137: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 6.
+Revize 138: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 13.
+Revize 139: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 31.
+Revize 140: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 4.
+Revize 141: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 2.
+Revize 142: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 5.
+Revize 143: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 5.
+Revize 144: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 5.
+Revize 145: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 7.
+Revize 146: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 25.
+Revize 147: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 38.
+Revize 148: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 16.
+Revize 149: 650 textů shodných s angličtinou (8.57 %), prázdných 0, upravených v revizi 32.
+Revize 150: 649 textů shodných s angličtinou (8.56 %), prázdných 0, upravených v revizi 40.
+Revize 151: 641 textů shodných s angličtinou (8.45 %), prázdných 0, upravených v revizi 78.
+Revize 152: 641 textů shodných s angličtinou (8.45 %), prázdných 0, upravených v revizi 23.
+Revize 153: 643 textů shodných s angličtinou (8.48 %), prázdných 0, upravených v revizi 37.
+Revize 154: 643 textů shodných s angličtinou (8.48 %), prázdných 0, upravených v revizi 25.
+Revize 155: 643 textů shodných s angličtinou (8.48 %), prázdných 0, upravených v revizi 18.
+Revize 156: 642 textů shodných s angličtinou (8.47 %), prázdných 0, upravených v revizi 24.
+Revize 157: 642 textů shodných s angličtinou (8.47 %), prázdných 0, upravených v revizi 49.
+Revize 158: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 130.
+Revize 159: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 22.
+Revize 160: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 35.
+Revize 161: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 27.
+Revize 162: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 54.
+Revize 163: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 26.
+Revize 164: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 5.
+
+Oblast                        Celkem   Prázdné   Shodné s angličtinou
+Zvěř a trofeje                 1047         0                  94
+Ovládání a systémy             1942         0                 125
+Mise a dialogy                 2090         0                  32
+Výbava a zbraně                 607         0                 212
+Rozhraní hry                   1897         0                 182
+
+Jak počítat další iterace: při každé revizi porovnat anglický
+originál s polskou a německou herní verzí, zkontrolovat všech pět
+českých PO, prázdné texty a počet doslova shodných řetězců.
+Opravy významu a stylu
+započítat zvlášť: mohou zvýšit kvalitu, aniž změní tato procenta.
+
+Doplňky mimo aktuální export PO: 9 / 9 přeložených.
+Celkem herních řetězců v balíčku: 7592.
+Doplňky se počítají samostatně a nezvyšují procento porovnání EN/PL/DE.
+Nové texty počasí a osm doplňků mají EN/CS kontrolu; PL/DE v podkladech chybí.
+Devět záznamů je sladěno se skutečným aktuálním zněním v herních tabulkách.
+Zastaralé exportované PL/DE znění se u nich nepovažuje za úplnou jazykovou kontrolu.
+Zaznamenaná ruční kontrola doplňků EN/CS: 9 / 9 = 100.00 %
