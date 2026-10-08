@@ -2,7 +2,7 @@
 
 Community Czech translation sources for **Way of the Hunter 2**. / Zdrojové soubory komunitní češtiny pro **Way of the Hunter 2**.
 
-**Snapshot: revision 164, 5 October 2026.** This repository is intended for translation review, community corrections, and discussion with Nine Rocks Games. It contains translation text and localization metadata. It is not an installation package.
+**Snapshot: revision 166, 8 October 2026.** This repository is intended for translation review, community corrections, and discussion with Nine Rocks Games. It contains translation text and localization metadata. It is not an installation package.
 
 ## For Nine Rocks Games
 
@@ -31,14 +31,24 @@ Tento repozitář obsahuje podklady pro posouzení a úpravy překladu, nikoli h
 | [runtime_string_overrides.json](runtime_string_overrides.json) | Corrections for game text that differs from the exported catalogs / Opravy aktuálních textů odlišných od exportu |
 | [supplemental_strings.json](supplemental_strings.json) | Additional localization entries missing from the exports / Doplňkové položky chybějící v exportu |
 | [POKRYTI_PREKLADU.txt](POKRYTI_PREKLADU.txt) | Detailed coverage and revision history / Pokrytí a historie revizí |
-| [REVISION_164_NOTES.txt](REVISION_164_NOTES.txt) | Latest revision notes / Poznámky k poslední revizi |
+| [REVISION_166_NOTES.txt](REVISION_166_NOTES.txt) | Latest revision notes / Poznámky k poslední revizi |
 | [snapshot.json](snapshot.json) | Catalog counts and SHA-256 hashes / Počty položek a kontrolní součty |
+
+## Latest update / Poslední aktualizace
+
+Revision 166 follows the game update of 8 October 2026: 12 catalog entries added, 15 English source texts changed, and 2 obsolete entries removed. Nine runtime overrides and five supplemental entries are now included in the official catalogs. Four supplemental entries remain. This snapshot also includes the blood quantity corrections from revision 165. See [revision notes](REVISION_166_NOTES.txt).
+
+Revize 166 navazuje na aktualizaci hry z 8. října 2026: 12 nových katalogových položek, 15 změněných anglických zdrojů a 2 odstraněné položky. Devět runtime oprav a pět doplňků je nyní součástí oficiálních katalogů; čtyři doplňky zůstávají mimo PO. Zahrnuté jsou také opravy množství barvy z revize 165. Podrobnosti jsou v [poznámkách k revizi](REVISION_166_NOTES.txt).
 
 ## Coverage / Pokrytí
 
-The existing build coverage report records **7,583 / 7,583 filled active entries** across the five game localization resources. The auxiliary catalog is excluded because it includes repeated and unused entries. The coverage report explains the counting method and its limitations. This is a completeness measure, not a promise of perfect translation or support for every future game update.
+The existing build coverage report records **7,593 / 7,593 filled active entries** across the five game localization resources. The auxiliary catalog is excluded because it includes repeated and unused entries. The coverage report explains the counting method and its limitations. This is a completeness measure, not a promise of perfect translation or support for every future game update.
 
-Zpráva o sestavení uvádí **7 583 / 7 583 vyplněných aktivních položek** v pěti herních lokalizacích. Pomocný katalog obsahuje také opakované a nepoužité položky, proto se do tohoto čísla nezapočítává. Vyplnění všech položek neznamená bezchybnost ani ověření všech scén ve hře.
+Zpráva o sestavení uvádí **7 593 / 7 593 vyplněných aktivních položek** v pěti herních lokalizacích. Pomocný katalog obsahuje také opakované a nepoužité položky, proto se do tohoto čísla nezapočítává. Vyplnění všech položek neznamená bezchybnost ani ověření všech scén ve hře.
+
+Recorded manual English/Czech review covers **7,593 / 7,593 entries (100%)**. Complete English/Polish/German comparison covers **7,525 / 7,593 entries (99.10%)**; 68 entries have explicit exceptions because comparison texts are missing, outdated, or require a reference to another string. These percentages describe recorded review coverage, not guaranteed translation quality or testing of every game scene.
+
+Evidovaná ruční kontrola EN/CS: **7 593 / 7 593 (100 %)**. Úplné porovnání EN/PL/DE: **7 525 / 7 593 (99,10 %)**. U 68 položek je výslovně zaznamenaná výjimka kvůli chybějícím či zastaralým srovnávacím textům nebo odkazu na jiný řetězec. Procenta popisují rozsah evidované kontroly.
 
 ## Status and rights / Stav a práva
 

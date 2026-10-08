@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ProductsRelease\n"
-"POT-Creation-Date: 2026-09-10 12:31\n"
-"PO-Revision-Date: 2026-09-10 12:31\n"
+"POT-Creation-Date: 2026-10-06 14:47\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -3317,6 +3317,58 @@ msgctxt ""
 "ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_FOCALPLANE_SECOND_NAME"
 msgid "Second"
 msgstr "Druhá"
+
+#. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD
+#. SourceLocation:
+#. /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+#: /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+msgctxt "ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD"
+msgid "Pattern spread"
+msgstr "Rozptyl broků"
+
+#. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_DENSER_DESCRIPTION
+#. SourceLocation:
+#. /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+#: /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+msgctxt ""
+"ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_DENSER_DESCRIPTION"
+msgid ""
+"Pellets are closer together for a longer distance. Suitable for hitting "
+"specific body parts."
+msgstr ""
+"Brokový obrazec zůstává hustší i na delší vzdálenost. Vhodné pro zásah "
+"konkrétních částí těla."
+
+#. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_DENSER_NAME
+#. SourceLocation:
+#. /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+#: /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+msgctxt ""
+"ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_DENSER_NAME"
+msgid "Denser"
+msgstr "Hustší"
+
+#. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_WIDER_DESCRIPTION
+#. SourceLocation:
+#. /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+#: /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+msgctxt ""
+"ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_WIDER_DESCRIPTION"
+msgid ""
+"Pellets spread out quickly. Suitable for fast-moving targets and close-range"
+" shooting."
+msgstr ""
+"Broky se rychle rozptylují. Vhodné pro rychle se pohybující cíle a střelbu "
+"na krátkou vzdálenost."
+
+#. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_WIDER_NAME
+#. SourceLocation:
+#. /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+#: /Game/BASE/Gear/Attachments/_Shared/ST_Attachments.ST_Attachments
+msgctxt ""
+"ST_Attachments,KEY_GEAR_ATTACHMENTS_PROPERTIES_PATTERNSPREAD_WIDER_NAME"
+msgid "Wider"
+msgstr "Širší"
 
 #. Key:	KEY_GEAR_ATTACHMENTS_PROPERTIES_REDUCTION_NOISE
 #. SourceLocation:

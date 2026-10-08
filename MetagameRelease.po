@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MetagameRelease\n"
-"POT-Creation-Date: 2026-09-16 09:57\n"
-"PO-Revision-Date: 2026-09-16 09:57\n"
+"POT-Creation-Date: 2026-10-06 14:43\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -1818,6 +1818,27 @@ msgstr ""
 msgctxt "ST_NPCs,KEY_NPCMAP02_07_NAME"
 msgid "Hailey Burnett"
 msgstr "Hailey Burnett"
+
+#. Key:	KEY_NPCMAP03_01_NAME
+#. SourceLocation:	/Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+#: /Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+msgctxt "ST_NPCs,KEY_NPCMAP03_01_NAME"
+msgid "Tashi Dorji"
+msgstr "Tashi Dorji"
+
+#. Key:	KEY_NPCMAP03_02_NAME
+#. SourceLocation:	/Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+#: /Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+msgctxt "ST_NPCs,KEY_NPCMAP03_02_NAME"
+msgid "Asha Verma"
+msgstr "Asha Verma"
+
+#. Key:	KEY_NPCMAP03_03_NAME
+#. SourceLocation:	/Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+#: /Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
+msgctxt "ST_NPCs,KEY_NPCMAP03_03_NAME"
+msgid "Dean Hunter"
+msgstr "Dean Hunter"
 
 #. Key:	KEY_NPCS_PROPERTIES_BEHAVIOR
 #. SourceLocation:	/Game/BASE/Characters/_Shared/ST_NPCs.ST_NPCs
@@ -8217,14 +8238,14 @@ msgstr "Rychlejší lov pro začátečníky"
 #: /Game/BASE/UI/_Shared/ST_GameFlow.ST_GameFlow
 msgctxt "ST_GameFlow,KEY_METAGAME_DIFFICULTY_EASY_DETAILS"
 msgid ""
-"— Animals are very predictable in their behavior\n"
-"— Tracks are easy to find and follow\n"
-"— Spooked animals calm down quickly and never attack you\n"
+"— Animals are very predictable in their behavior\r\n"
+"— Tracks are easy to find and follow\r\n"
+"— Spooked animals calm down quickly\r\n"
 "— Your Dog companion is distracted less"
 msgstr ""
 "— Zvěř se chová velmi předvídatelně\n"
 "— Stopy se snadno hledají i sledují\n"
-"— Vyplašená zvěř se rychle uklidní a nikdy na vás nezaútočí\n"
+"— Vyplašená zvěř se rychle uklidní\n"
 "— Psa méně rozptyluje okolí"
 
 #. Key:	KEY_METAGAME_DIFFICULTY_EASY_NAME
@@ -16281,7 +16302,7 @@ msgstr ""
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE0303_DESCRIPTION04"
 msgid ""
-"Chokes make pellet spreads tighter or wider. As of now, you can buy a tight "
+"Chokes make pellet spreads denser or wider. As of now, you can buy a tight "
 "choke to shoot with a denser pattern even from a longer range. One good "
 "example is targeting heads or necks of Wild turkeys. But when you target "
 "fast-moving small game and birds, you'd rather use the choke installed on "
@@ -17856,11 +17877,21 @@ msgstr "Eticky a účinně"
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION01"
 msgid ""
-"The American foxhound is a highly reliable blood-tracking breed. It has a "
-"keen sense of smell like no one else!"
+"The American foxhound is <subtitle>primarily</> a blood-tracking breed that "
+"can <subtitle>also</> look for older animal Tracks. With time and "
+"repetition, foxhounds will <highlight>follow your commands</> reliably "
+"(increased obedience), <highlight>heel</>, <highlight>sit</> and "
+"<highlight>stay</> for longer, remain closer and behave calmer when "
+"<highlight>released</>.  Accomplish it all by <subtitle>bonding</> and "
+"improving their <subtitle>aptitudes</>."
 msgstr ""
-"Americký foxhound je spolehlivý pes pro dosled po barvě. Má mimořádně "
-"citlivý čich."
+"Americký foxhound je <subtitle>především</> pes pro dosled po barvě, který "
+"dokáže <subtitle>také</> vyhledávat starší stopy zvěře. Postupným výcvikem "
+"bude spolehlivěji <highlight>plnit vaše povely</> (zvýší se jeho "
+"poslušnost), déle zvládne povely <highlight>K noze</>, <highlight>Sedni</> a"
+" <highlight>Zůstaň</>, bude se držet blíže u vás a při <highlight>volném "
+"pohybu</> se bude chovat klidněji. Pomůže vám v tom upevňování "
+"<subtitle>vztahu se psem</> a rozvoj jeho <subtitle>dovedností</>."
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION02
 #. SourceLocation:
@@ -17870,14 +17901,19 @@ msgstr ""
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION02"
 msgid ""
-"Every success makes your companion more skillful. For example, when you "
-"command the dog to \"Search\" and it finds animal Tracks, its search and "
-"quartering aptitude increases. Repeat the success enough times, and the "
-"aptitude will level up."
+"Dogs don't alert animals with the noises they make, they can only spook game"
+" by getting very close. So <highlight>bring them on hunts</> to gradually "
+"bond and <highlight>give them commands</> to bond even more. When commands "
+"are followed properly, <highlight>pet the dog</> so the corresponding "
+"aptitude improves faster. Don't take too long, or the foxhound won't link "
+"the behavior with your reward. "
 msgstr ""
-"Každý úspěch psa posouvá dál. Když mu dáte povel „Hledej“ a najde stopy "
-"zvěře, zlepší se ve vyhledávání a slídění. Po dostatečném počtu úspěchů "
-"získá další úroveň této dovednosti."
+"Zvuky, které psi vydávají, zvěř neplaší. Vyplašit ji mohou jen tím, že se k "
+"ní přiblíží příliš blízko. <highlight>Berte proto psa na lov</>, abyste "
+"postupně upevňovali vzájemný vztah, a <highlight>dávejte mu povely</>, které"
+" ho posílí ještě více. Pokud povel správně splní, <highlight>pohlaďte ho</>,"
+" aby se příslušná dovednost rozvíjela rychleji. Neotálejte, jinak si pes "
+"odměnu nespojí s tím, co právě udělal."
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION03
 #. SourceLocation:
@@ -17887,15 +17923,18 @@ msgstr ""
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION03"
 msgid ""
-"But foxhounds are all about finding blood. Once it finds a blood splatter, "
-"you shouldn't give a new \"Search\" command, as it'll look for other animal "
-"Tracks. Instead, ask it to \"Track Blood\" and follow it—if the target is "
-"out there, you'll get to it sooner than later!"
+"Your companion has <subtitle>focus</> shown. The higher it is, the more the "
+"aptitude for any successful command grows, so when the focus is low, the dog"
+" receives less <subtitle>experience</>. Focus gradually recovers as long as "
+"you aren't giving new commands. You can also <highlight>send the dog home</>"
+" for faster recovery, but the bond won't be growing during this time."
 msgstr ""
-"Foxhound vyniká v dosledu po barvě. Jakmile najde barvu, nedávejte mu znovu "
-"povel „Hledej“: začal by vyhledávat stopy jiné zvěře. Dejte mu povel „Sleduj"
-" barvu“ a vydejte se za ním. Je-li postřelený kus stále v terénu, pes vás k "
-"němu dovede."
+"U psa se zobrazuje ukazatel <subtitle>soustředění</>. Čím vyšší je jeho "
+"hodnota, tím více se při úspěšném splnění povelu rozvíjí příslušná "
+"dovednost. Při nízkém soustředění tedy pes získává méně "
+"<subtitle>zkušeností</>. Pokud mu nedáváte další povely, soustředění se "
+"postupně obnovuje. Pro rychlejší zotavení můžete <highlight>poslat psa "
+"domů</>, ale po tuto dobu se váš vztah neprohlubuje."
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION04
 #. SourceLocation:
@@ -17905,27 +17944,22 @@ msgstr ""
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION04"
 msgid ""
-"When the foxhound finds the carcass, it won't just wait for you—it'll start "
-"baying. Unlike barking you may be used to with other breeds, baying is a "
-"sustained, intense howling sound."
+"When foxhounds quarter, they zigzag back and forth to search for blood and "
+"other Tracks. This way, they can also find shot-down birds and dead small "
+"game in tall grass, but only if they're very close. When your dog finds the "
+"<subtitle>initial hit blood</> and the next part of the Track is too far, "
+"you may need to <highlight>explicitly command</> to track blood further. The"
+" better the <subtitle>aptitude</> for this is, the <subtitle>longer</> "
+"foxhounds stay on the Track. Your companion will also <highlight>wait for "
+"you</> if it gets too far ahead!"
 msgstr ""
-"Když foxhound najde zhaslý kus, začne nález hlasitě hlásit. Jeho hlasový "
-"projev je táhlý a výrazný, jiný než běžné štěkání."
-
-#. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION05
-#. SourceLocation:
-#. /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
-#: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
-msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_DESCRIPTION05"
-msgid ""
-"Occasionally, you'll find your companion \"Released\". At this moment, it "
-"doesn't follow any command. There are two explanations. It either doesn't "
-"respect you enough yet—just spend more time with it—or it's been signaling "
-"you about a Track it found and has given up."
-msgstr ""
-"Někdy uvidíte u psa stav „Volný“. Znamená to, že právě neplní žádný povel. "
-"Buď s vámi ještě nemá dostatečně pevný vztah, nebo vás upozorňoval na "
-"nalezené stopy a po čase čekání toho nechal."
+"Při slídění foxhound postupuje cikcak a vyhledává barvu i jiné stopy. Dokáže"
+" tak najít i sestřelené ptáky a zhaslou drobnou zvěř ve vysoké trávě, ale "
+"jen zblízka. Když pes najde <subtitle>barvu na nástřelu</> a další část "
+"stopy je příliš daleko, může být nutné mu <highlight>výslovně dát povel</> k"
+" dalšímu dosledu po barvě. Čím lépe tuto <subtitle>dovednost</> ovládá, tím "
+"<subtitle>déle</> se drží stopy. Pokud se příliš vzdálí před vás, "
+"<highlight>počká na vás</>!"
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME
 #. SourceLocation:
@@ -17937,14 +17971,6 @@ msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME"
 msgid "American foxhound: your best companion"
 msgstr "Americký foxhound: váš nejlepší společník"
 
-#. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME02
-#. SourceLocation:
-#. /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
-#: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
-msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME02"
-msgid "Hunting aptitude"
-msgstr "Lovecká vloha"
-
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME03
 #. SourceLocation:
 #. /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
@@ -17953,8 +17979,8 @@ msgstr "Lovecká vloha"
 #. InfoMetaData:	"Version" : "Beta"
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME03"
-msgid "Tracking blood"
-msgstr "Dosled po barvě"
+msgid "A game of focus"
+msgstr "Práce se soustředěním"
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME04
 #. SourceLocation:
@@ -17964,8 +17990,8 @@ msgstr "Dosled po barvě"
 #. InfoMetaData:	"Version" : "Beta"
 #: /Game/BASE/UI/Display_Game/UiScreen_Codex/ST_Guides.ST_Guides
 msgctxt "ST_Encyclopedia,KEY_METAGAME_ENCYCLOPEDIA_GUIDE10_NAME04"
-msgid "Baying"
-msgstr "Hlášení nálezu vytím"
+msgid "Search and quartering"
+msgstr "Vyhledávání a slídění"
 
 #. Key:	KEY_METAGAME_ENCYCLOPEDIA_TIP01_DESCRIPTION
 #. SourceLocation:

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: LocalizationUiGeneral\n"
 "POT-Creation-Date: 2026-03-03 16:21\n"
-"PO-Revision-Date: 2026-03-03 16:21\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -594,7 +594,7 @@ msgstr "Zvěř byla smrtelně zasažena"
 #: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
 msgctxt "ST_UiGeneral,KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_HIGHER"
 msgid "Higher"
-msgstr "Vyšší"
+msgstr "Větší"
 
 #. Key:	KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_LOWER
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
@@ -603,7 +603,7 @@ msgstr "Vyšší"
 #: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
 msgctxt "ST_UiGeneral,KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_LOWER"
 msgid "Lower"
-msgstr "Nižší"
+msgstr "Menší"
 
 #. Key:	KEY_ANIMALS_SIGNS_BLOOD_COLORS_PINK
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral

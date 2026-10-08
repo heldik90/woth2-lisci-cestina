@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MissionsRelease\n"
-"POT-Creation-Date: 2026-09-10 10:25\n"
-"PO-Revision-Date: 2026-09-10 10:25\n"
+"POT-Creation-Date: 2026-10-06 14:31\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -10584,6 +10584,14 @@ msgctxt ""
 msgid "Good luck out there."
 msgstr "Hodně štěstí v nové rezervaci."
 
+#. Key:	KEY_MAP01MINISTORY05_MISSION04_OBJECTIVE01_VO03_L31_MIKAEL
+#. SourceLocation:	/Game/BASE/Maps/_Shared/Missions/ST_Missions.ST_Missions
+#: /Game/BASE/Maps/_Shared/Missions/ST_Missions.ST_Missions
+msgctxt ""
+"ST_Missions,KEY_MAP01MINISTORY05_MISSION04_OBJECTIVE01_VO03_L31_MIKAEL"
+msgid "Best of luck to you as well."
+msgstr "I tobě hodně štěstí."
+
 #. Key:	KEY_MAP01MINISTORYEND_MISSION01_DESCRIPTION
 #. SourceLocation:	/Game/BASE/Maps/_Shared/Missions/ST_Missions.ST_Missions
 #. InfoMetaData:	"Order" : "Map01 MiniStoryEnd Mission01 description"
@@ -14128,8 +14136,8 @@ msgid ""
 "They only go out in the open if there's no nearby water source secluded by "
 "trees."
 msgstr ""
-"Na otevřené prostranství vyjdou jen tehdy, když nenajdou vodu v úkrytu mezi "
-"stromy."
+"Na otevřené prostranství vyjdou jen tehdy, když v okolí není zdroj vody "
+"krytý stromy."
 
 #. Key:	KEY_MAP02MINISTORY01_MISSION03_OBJECTIVE01_VO03_L19_MALACHI_OP01
 #. SourceLocation:	/Game/BASE/Maps/_Shared/Missions/ST_Missions.ST_Missions

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: AnimalsRelease\n"
 "POT-Creation-Date: 2026-07-31 10:45\n"
-"PO-Revision-Date: 2026-07-31 10:45\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -9445,7 +9445,7 @@ msgstr "Zvíře přežilo"
 #: /Game/BASE/Animals/_Shared/ST_DamageSystem.ST_DamageSystem
 msgctxt "ST_DamageSystem,KEY_ANIMALS_DAMAGE_BLOOD_VOLUMES_HIGHER"
 msgid "Higher volume of blood"
-msgstr "Větší množství krve"
+msgstr "Větší množství barvy"
 
 #. Key:	KEY_ANIMALS_DAMAGE_BLOOD_VOLUMES_LOWER
 #. SourceLocation:	/Game/BASE/Animals/_Shared/ST_DamageSystem.ST_DamageSystem
@@ -9453,7 +9453,7 @@ msgstr "Větší množství krve"
 #: /Game/BASE/Animals/_Shared/ST_DamageSystem.ST_DamageSystem
 msgctxt "ST_DamageSystem,KEY_ANIMALS_DAMAGE_BLOOD_VOLUMES_LOWER"
 msgid "Lower volume of blood"
-msgstr "Menší množství krve"
+msgstr "Menší množství barvy"
 
 #. Key:	KEY_ANIMALS_DAMAGE_ORGANS_AIRSACKS
 #. SourceLocation:	/Game/BASE/Animals/_Shared/ST_DamageSystem.ST_DamageSystem

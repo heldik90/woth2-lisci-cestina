@@ -1,44 +1,49 @@
 {
-  "revision": 164,
-  "translation_date": "2026-10-05",
-  "snapshot_prepared": "2026-10-06",
+  "revision": 166,
+  "translation_date": "2026-10-08",
+  "snapshot_prepared": "2026-10-08",
+  "game_update": "2026-10-08",
   "catalogs": [
     {
       "file": "AnimalsRelease.po",
       "entries": 1047,
-      "sha256": "fb8e6f682239e61d012e097464242b8f35888b60decfb1f79696c6a00ca7b525"
+      "sha256": "ee8c2083570dc24d0e2cc4ef8b14ea324fac161967f6abe07fdfa909a07f5cfd"
     },
     {
       "file": "LocalizationUiGeneral.po",
       "entries": 1359,
-      "sha256": "e68825388c170e2656604dbfdc200bd2f8f1b8b1f58cca77666333030fd19b69"
+      "sha256": "5775a915bedab1c23eff9cbb50e05d584edb5d92c23afac46e8d1601de6cdd70"
     },
     {
       "file": "MetagameRelease.po",
-      "entries": 1942,
-      "sha256": "154b55bc2cd53d9c64675d70f3da14adb64653b1437a674534e84c1256e47b61"
+      "entries": 1943,
+      "sha256": "44439ed83bc7f4826f2d24084f64547b5f066f4f3deb22ab82f2359bf6d1e8a9"
     },
     {
       "file": "MissionsRelease.po",
-      "entries": 2090,
-      "sha256": "a2566749d508b409090ef7ef3e74c5ac660a2f3eb9bf55da71a1749de44550d0"
+      "entries": 2091,
+      "sha256": "45e002ef9a0575420fba67d0c8ea842d7acf1a55bdbd5d132c84854cb51b8be0"
     },
     {
       "file": "ProductsRelease.po",
-      "entries": 607,
-      "sha256": "1837a1e8987af8841c7e3548fd530b79b09fe318f5659dd6be3a208ebe1b7504"
+      "entries": 612,
+      "sha256": "c91093883b9a09a69303f5962c97d3db3013af0112c27c8054415934b26de61f"
     },
     {
       "file": "UIRelease.po",
-      "entries": 1897,
-      "sha256": "5f4d4688f8e668ed94d29ea75b0d42eebcd0cd6e8a5ae932b8a67e35cab1ee28"
+      "entries": 1900,
+      "sha256": "f2b6e3c9b99dc0427ad04a5578473556bafb83af726a9ba421590ab344e9175c"
     }
   ],
   "extra_entries": {
-    "runtime_string_overrides.json": 9,
-    "supplemental_strings.json": 9
+    "runtime_string_overrides.json": 0,
+    "supplemental_strings.json": 4
   },
-  "coverage_report_active_entries": 7583,
-  "coverage_report_filled_active_entries": 7583,
-  "note": "Raw PO catalog counts are not the active build coverage count; see POKRYTI_PREKLADU.txt."
+  "coverage_report_active_entries": 7593,
+  "coverage_report_filled_active_entries": 7593,
+  "manual_en_cs_reviewed_entries": 7593,
+  "complete_en_pl_de_compared_entries": 7525,
+  "explicit_language_exceptions": 68,
+  "runtime_entries_in_verified_build": 7597,
+  "note": "Raw PO catalog counts are not the active build coverage count; see POKRYTI_PREKLADU.txt. Review percentages measure recorded coverage, not guaranteed quality or in-game verification. SHA-256 hashes refer to the published UTF-8/LF source files."
 }

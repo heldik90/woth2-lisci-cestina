@@ -1,0 +1,40 @@
+LIŠČÍ ČEŠTINA — REVIZE 166
+8. 10. 2026; zdroje podle aktuálního herního exportu
+
+Změny proti poslednímu GitHub snapshotu (revize 164):
+- Zahrnuta revize 165: Higher/Lower amount of blood odpovídá většímu/menšímu množství barvy; opravené jsou krátké i úplné popisky.
+- Aktualizace hry: 12 nových položek, 15 změněných anglických zdrojů, 2 odstraněné položky.
+- 4 nové překlady, 6 aktualizovaných názvů a popisů nastavení a 1 významová oprava Malachiho repliky o kudu (podmínka zdroje vody v okolí).
+- Vlastní jména Tashi Dorji, Asha Verma a Dean Hunter zachována.
+- 9 runtime oprav a 5 doplňků začleněno do aktuálních katalogů. runtime_string_overrides.json je prázdný; supplemental_strings.json obsahuje 4 dosud nekatalogizované interakce.
+
+Příklady:
+Pattern spread → Rozptyl broků
+Discard → Vyřadit
+Manage storage → Spravovat sklad výbavy
+Non-typical → Netypická
+Binoculars arcade zoom → Arkádové přiblížení dalekohledu
+Binoculars mode → Ovládání dalekohledu
+Global illumination quality → Kvalita globálního osvětlení
+
+Ruční kontrola:
+- Navíc přečteno a porovnáno 53 textů upravených v polštině nebo němčině.
+- Nové PL/DE položky jsou prázdné; u změněných EN zdrojů jsou PL/DE zastaralé. Nejsou započtené jako úplné trojjazyčné porovnání.
+- Nepřevzata chybná polská záměna reflexní kuše za kladkovou.
+
+Pokrytí:
+Vyplněné aktivní položky: 7 593 / 7 593 = 100,00 %.
+Ruční EN/CS kontrola: 7 593 / 7 593 = 100,00 %.
+Úplné EN/PL/DE porovnání: 7 525 / 7 593 = 99,10 %.
+Výslovné jazykové výjimky: 68 položek.
+4 runtime doplňky jsou přeložené a ručně zkontrolované.
+Pomocný katalog (1 359 položek) není součástí aktivních procent.
+Rozsah kontroly není zárukou bezchybnosti ani ověření všech scén ve hře.
+
+Technická kontrola sestavení:
+Validováno 8 952 PO položek včetně pomocného katalogu: původní identifikátory a zdroje, zástupné proměnné, technické funkce, formátování, plurály a latinské názvy.
+Všech 7 593 původních runtime klíčů má aktuální zdrojový hash a zamýšlený český text. Zachovány 4 doplňky (celkem 7 597 runtime textů).
+Rozdíly mezi původními PO a LOCRES byly jednotlivě ověřeny proti původním datům; nejsou překládány jako nové chyby.
+Přenos do GitHub snapshotu zachovává všechny PO řetězce a JSON data; mění jen konce řádků na LF a odstraňuje případný UTF-8 BOM.
+Kontrolní součty v snapshot.json se vztahují k publikovaným textovým souborům.
+Repozitář obsahuje překladové zdroje pro kontrolu, nikoli instalátor.

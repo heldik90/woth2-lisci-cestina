@@ -1,16 +1,16 @@
-﻿LIŠČÍ ČEŠTINA — STAV PŘEKLADU
-Revize 164 · 5. 10. 2026
+LIŠČÍ ČEŠTINA — STAV PŘEKLADU
+Revize 166 · 8. 10. 2026
 
-Měřím 7 583 textů v pěti lokalizačních souborech, které český balíček
-skutečně nahrazuje ve hře. Zdrojových 8 942 řádků zahrnuje ještě
+Měřím 7 593 textů v pěti lokalizačních souborech, které český balíček
+skutečně nahrazuje ve hře. Zdrojových 8 952 řádků zahrnuje ještě
 1 359 řádků pomocného souboru LocalizationUiGeneral.po; z nich se
-1 166 opakuje v UIRelease.po a dalších 193 není v tomto balíčku
+1 166 přesně opakuje v UIRelease.po a dalších 193 není v tomto balíčku
 použito. Proto je do procent nezapočítávám.
 
-Vyplněné české položky: 7 583 / 7 583 = 100.00 %
-Prázdné položky: 0 / 7 583 = 0.00 %
-Texty odlišné od angličtiny: 6 938 / 7 583 = 91.49 %
-Texty doslova shodné s angličtinou: 645 / 7 583 = 8.51 %
+Vyplněné české položky: 7 593 / 7 593 = 100.00 %
+Prázdné položky: 0 / 7 593 = 0.00 %
+Texty odlišné od angličtiny: 6 945 / 7 593 = 91.47 %
+Texty doslova shodné s angličtinou: 648 / 7 593 = 8.53 %
 
 Poslední řádek není procento chybějícího překladu: obsahuje úmyslně
 zachovaná jména lidí, výrobků a míst, latinské názvy, jednotky,
@@ -19,16 +19,16 @@ rozsah doslova nezměněných řetězců, nikoli počet překladových chyb.
 Kvalitu všech vět zatím nelze poctivě vyjádřit jedním procentem.
 
 Evidence úplného jazykového porovnání od revize 121:
-Zaznamenané porovnání s EN/PL/DE: 7511 / 7583 = 99.05 %
+Zaznamenané porovnání s EN/PL/DE: 7525 / 7593 = 99.10 %
 Tato nová evidence počítá konkrétní aktuální texty, včetně těch,
 které po porovnání nevyžadovaly opravu. Starší revize nejsou
 automaticky zahrnuté; nízké procento neznamená, že se dříve
 nerevidovaly. Nejde o záruku bezchybnosti ani test všech scén ve hře.
 
 Evidence ruční revize aktuálních textů:
-Ruční kontrola EN/CS s dostupnými PL/DE: 7583 / 7583 = 100.00 %
-Zbývá ručně zkontrolovat: 0 / 7583 = 0.00 %
-Z toho 72 položek má výslovně zaznamenanou výjimku: PL/DE chybí,
+Ruční kontrola EN/CS s dostupnými PL/DE: 7593 / 7593 = 100.00 %
+Zbývá ručně zkontrolovat: 0 / 7593 = 0.00 %
+Z toho 68 položek má výslovně zaznamenanou výjimku: PL/DE chybí,
 mají starý odlišný význam, nebo je nutné vyřešit odkaz na jiný text.
 Tyto položky nezvyšují procento úplného porovnání EN/PL/DE výše.
 100 % ruční revize označuje rozsah kontroly, nikoli záruku bezchybnosti.
@@ -181,13 +181,15 @@ Revize 161: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upraven
 Revize 162: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 54.
 Revize 163: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 26.
 Revize 164: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 5.
+Revize 165: 645 textů shodných s angličtinou (8.51 %), prázdných 0, upravených v revizi 4.
+Revize 166: 648 textů shodných s angličtinou (8.53 %), prázdných 0, upravených v revizi 27.
 
 Oblast                        Celkem   Prázdné   Shodné s angličtinou
 Zvěř a trofeje                 1047         0                  94
-Ovládání a systémy             1942         0                 125
-Mise a dialogy                 2090         0                  32
-Výbava a zbraně                 607         0                 212
-Rozhraní hry                   1897         0                 182
+Ovládání a systémy             1943         0                 128
+Mise a dialogy                 2091         0                  32
+Výbava a zbraně                 612         0                 212
+Rozhraní hry                   1900         0                 182
 
 Jak počítat další iterace: při každé revizi porovnat anglický
 originál s polskou a německou herní verzí, zkontrolovat všech pět
@@ -195,10 +197,10 @@ originál s polskou a německou herní verzí, zkontrolovat všech pět
 Opravy významu a stylu
 započítat zvlášť: mohou zvýšit kvalitu, aniž změní tato procenta.
 
-Doplňky mimo aktuální export PO: 9 / 9 přeložených.
-Celkem herních řetězců v balíčku: 7592.
+Doplňky mimo aktuální export PO: 4 / 4 přeložených.
+Celkem herních řetězců v balíčku: 7597.
 Doplňky se počítají samostatně a nezvyšují procento porovnání EN/PL/DE.
-Nové texty počasí a osm doplňků mají EN/CS kontrolu; PL/DE v podkladech chybí.
-Devět záznamů je sladěno se skutečným aktuálním zněním v herních tabulkách.
-Zastaralé exportované PL/DE znění se u nich nepovažuje za úplnou jazykovou kontrolu.
-Zaznamenaná ruční kontrola doplňků EN/CS: 9 / 9 = 100.00 %
+Dostupnost PL/DE se posuzuje podle aktuálního znění každého textu.
+Prázdné nebo významově zastaralé PL/DE nepředstavují úplnou jazykovou kontrolu.
+Po updatu 8. 10. 2026 je pět původních doplňků a devět runtime oprav součástí aktuálních PO.
+Zaznamenaná ruční kontrola doplňků EN/CS: 4 / 4 = 100.00 %

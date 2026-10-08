@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: UIRelease\n"
-"POT-Creation-Date: 2026-09-16 09:54\n"
-"PO-Revision-Date: 2026-09-16 09:54\n"
+"POT-Creation-Date: 2026-10-06 14:58\n"
+"PO-Revision-Date: 2026-10-08 16:53+0200\n"
 "Language-Team: \n"
 "Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
@@ -459,16 +459,21 @@ msgstr "Četnost automatického ukládání"
 #. InfoMetaData:	"Notes Localization" : "setting 09 description"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_BINOCULARSARCADEMODE_DESCRIPTION"
-msgid "Enable the non-authentic mode for binoculars."
-msgstr "Zapne zjednodušený režim dalekohledu."
+msgid ""
+"Enable to zoom in and out even when the binoculars model you're using "
+"doesn't support magnification adjustments. We recommend to keep this option "
+"disabled if you want a more authentic experience."
+msgstr ""
+"Povolí přibližování a oddalování obrazu i u dalekohledu bez proměnného "
+"zvětšení. Pro realističtější zážitek doporučujeme tuto volbu vypnout."
 
 #. Key:	KEY_METAGAME_SETTINGS_BINOCULARSARCADEMODE_NAME
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 #. InfoMetaData:	"Notes Localization" : "setting 09 name"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_BINOCULARSARCADEMODE_NAME"
-msgid "Forced binoculars zoom"
-msgstr "Vynucené přiblížení dalekohledu"
+msgid "Binoculars arcade zoom"
+msgstr "Arkádové přiblížení dalekohledu"
 
 #. Key:	KEY_METAGAME_SETTINGS_BINOCULARSMODE_DESCRIPTION
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
@@ -476,21 +481,19 @@ msgstr "Vynucené přiblížení dalekohledu"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_BINOCULARSMODE_DESCRIPTION"
 msgid ""
-"Enable to zoom in and out even when the binoculars model you're using "
-"doesn't support magnification adjustments. We recommend to keep this option "
-"disabled if you want a more authentic experience."
+"Set how looking through binoculars is performed: hold the button "
+"continuously or press the button once to toggle."
 msgstr ""
-"Povolí přibližování a oddalování obrazu i u dalekohledu, jehož model "
-"nenabízí proměnné zvětšení. Pro realističtější zážitek doporučujeme tuto "
-"volbu vypnout."
+"Zvolte ovládání dalekohledu: držení tlačítka po celou dobu pozorování, nebo "
+"přepínání stiskem tlačítka."
 
 #. Key:	KEY_METAGAME_SETTINGS_BINOCULARSMODE_NAME
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 #. InfoMetaData:	"Notes Localization" : "setting 10 name"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_BINOCULARSMODE_NAME"
-msgid "Binoculars arcade zoom"
-msgstr "Arkádové přiblížení dalekohledu"
+msgid "Binoculars mode"
+msgstr "Ovládání dalekohledu"
 
 #. Key:	KEY_METAGAME_SETTINGS_BINOCULARSSENSITIVITYHORIZONTAL_DESCRIPTION
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
@@ -701,22 +704,22 @@ msgstr "Pohyb: vnější zóna"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_DIFFICULTY_DESCRIPTION"
 msgid ""
-"Set the difficulty of the game.\n"
-"\n"
-"Easy: fast-paced hunts for beginners\n"
-"— Animals are very predictable in their behavior\n"
-"— Tracks are easy to find and follow\n"
-"— Spooked animals calm down quickly and never attack you\n"
-"— Your Dog companion is distracted less\n"
-"\n"
-"Normal: approachable hunts for most players\n"
-"— Animals are mostly predictable in their behavior\n"
-"— Tracks take some time and effort to find and follow\n"
-"— Predators may attack you\n"
-"\n"
-"Hard: slower-paced hunts for experienced players\n"
-"— Animals are less predictable in their behavior\n"
-"— Predators and herbivores may attack you\n"
+"Set the difficulty of the game.\r\n"
+"\r\n"
+"Easy: fast-paced hunts for beginners\r\n"
+"— Animals are very predictable in their behavior\r\n"
+"— Tracks are easy to find and follow\r\n"
+"— Spooked animals calm down quickly\r\n"
+"— Your Dog companion is distracted less\r\n"
+"\r\n"
+"Normal: approachable hunts for most players\r\n"
+"— Animals are mostly predictable in their behavior\r\n"
+"— Tracks take some time and effort to find and follow\r\n"
+"— Predators may attack you\r\n"
+"\r\n"
+"Hard: slower-paced hunts for experienced players\r\n"
+"— Animals are less predictable in their behavior\r\n"
+"— Predators and herbivores may attack you\r\n"
 "— Tracks are harder to find and follow"
 msgstr ""
 "Nastavte obtížnost hry.\n"
@@ -724,7 +727,7 @@ msgstr ""
 "Lehká: rychlejší lov pro začátečníky\n"
 "— Zvěř se chová velmi předvídatelně\n"
 "— Stopy se snadno hledají i sledují\n"
-"— Vyplašená zvěř se rychle uklidní a nikdy na vás nezaútočí\n"
+"— Vyplašená zvěř se rychle uklidní\n"
 "— Psa méně rozptyluje okolí\n"
 "\n"
 "Střední: vyvážený lov pro většinu hráčů\n"
@@ -1190,25 +1193,23 @@ msgstr "Zobrazit verzi hry"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_GLOBALILLUMINATION_DESCRIPTION"
 msgid ""
-"Adjust how good lighting looks in general. Lumen high and epic offer the "
-"best quality, but they require a capable system, especially the epic option."
-" Ambient occlusion is less demanding, as it only darkens corners and "
-"crevices. Disable this option if you experience low frame rates, but the "
-"visuals will be noticeably worse."
+"Adjust how good lighting looks in general. At High, the advanced, fully "
+"dynamic global illumination and reflections system called Lumen is used. At "
+"Low, Lumen is disabled in favor of a fallback solution that produces poorer "
+"game visuals but improves the framerate."
 msgstr ""
-"Nastavte kvalitu osvětlení. Nastavení Lumen – vysoká a epická nabízejí "
-"nejlepší obraz, ale vyžadují výkonný počítač, zejména epické nastavení. "
-"Okolní okluze je méně náročná a ztmavuje jen zákoutí a spáry. Pokud máte "
-"nízkou snímkovou frekvenci, můžete osvětlení vypnout, ale obraz bude "
-"znatelně horší."
+"Nastavte kvalitu osvětlení. Při vysoké kvalitě se používá Lumen s plně "
+"dynamickým globálním osvětlením a odrazy. Při nízké kvalitě se Lumen vypne a"
+" použije se jednodušší řešení, které zhorší vzhled hry, ale zvýší snímkovou "
+"frekvenci."
 
 #. Key:	KEY_METAGAME_SETTINGS_GLOBALILLUMINATION_NAME
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 #. InfoMetaData:	"Notes Localization" : "setting 27 name"
 #: /Game/BASE/UI/_Shared/ST_Settings.ST_Settings
 msgctxt "ST_Settings,KEY_METAGAME_SETTINGS_GLOBALILLUMINATION_NAME"
-msgid "Global illumination"
-msgstr "Globální osvětlení"
+msgid "Global illumination quality"
+msgstr "Kvalita globálního osvětlení"
 
 #. Key:	KEY_METAGAME_SETTINGS_GLOBALILLUMINATION_OPTIONS_AMBIENTOCCLUSION
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_Settings.ST_Settings
@@ -4180,7 +4181,7 @@ msgstr "Zvěř byla smrtelně zasažena"
 #: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
 msgctxt "ST_UiGeneral,KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_HIGHER"
 msgid "Higher"
-msgstr "Vyšší"
+msgstr "Větší"
 
 #. Key:	KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_LOWER
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
@@ -4190,7 +4191,7 @@ msgstr "Vyšší"
 #: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
 msgctxt "ST_UiGeneral,KEY_ANIMALS_SIGNS_BLOOD_AMOUNT_LOWER"
 msgid "Lower"
-msgstr "Nižší"
+msgstr "Menší"
 
 #. Key:	KEY_ANIMALS_SIGNS_BLOOD_COLORS_PINK
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
@@ -10423,6 +10424,13 @@ msgstr ""
 "ⓘ\r\n"
 "Předsádku lze v terénu nasadit a sundat pomocí kruhové nabídky."
 
+#. Key:	KEY_INVENTORY_DISCARDITEM
+#. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+#: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+msgctxt "ST_UiGeneral,KEY_INVENTORY_DISCARDITEM"
+msgid "Discard"
+msgstr "Vyřadit"
+
 #. Key:	KEY_INVENTORY_EQUIPITEM
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
 #. InfoMetaData:	"Is Unique" : "true"
@@ -13121,6 +13129,13 @@ msgstr "Běžná"
 msgctxt "ST_UiGeneral,KEY_RARITY_MYTHICAL"
 msgid "Mythical"
 msgstr "Mýtická"
+
+#. Key:	KEY_RARITY_NONTYPICAL
+#. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+#: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+msgctxt "ST_UiGeneral,KEY_RARITY_NONTYPICAL"
+msgid "Non-typical"
+msgstr "Netypická"
 
 #. Key:	KEY_RARITY_RARE
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
@@ -17381,6 +17396,13 @@ msgstr "Spustit novou hru"
 msgctxt "ST_UiGeneral,KEY_STORAGE_CUSTOMIZE"
 msgid "Customize"
 msgstr "Přizpůsobit"
+
+#. Key:	KEY_STORAGE_MANAGE
+#. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+#: /Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
+msgctxt "ST_UiGeneral,KEY_STORAGE_MANAGE"
+msgid "Manage storage"
+msgstr "Spravovat sklad výbavy"
 
 #. Key:	KEY_STRIP_ATTACHMENT
 #. SourceLocation:	/Game/BASE/UI/_Shared/ST_UiGeneral.ST_UiGeneral
